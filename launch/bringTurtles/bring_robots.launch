@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<launch>
+  <include file="$(find cup_plate)/launch/bringTurtles/bring_onerobot.launch" >
+    <arg name="init_pose_x" value="1.25" /> <!--table left-->
+    <arg name="init_pose_y" value="-.55"/>
+    <arg name="init_pose_a" value="1.57"/>
+    <arg name="robot_name"  value="robot1" />
+  </include>
+</launch>
