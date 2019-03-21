@@ -1,5 +1,7 @@
 # cup_plate
 Cognitive Robotics project in intent recognition and plan adaptation using ROSPlan and Turtlebot robot
+### Video
+https://www.youtube.com/watch?v=h-8FZcqJkiE
 
 the following package requires rosplan that can be found at:
 https://github.com/KCL-Planning/ROSPlan
